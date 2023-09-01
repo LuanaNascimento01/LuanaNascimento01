@@ -1,8 +1,5 @@
-Oii! Eu sou a Luana Nascimento.
+Olá! Me chamo Luana.
 
-
-🌱 Aprendendo front-end (HTML, CSS e JS)
-
-🤓 Estudante de Tecnologia da Informação
+🤓 Estudante de Tecnologia da Informação.
 
 
